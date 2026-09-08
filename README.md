@@ -2,6 +2,11 @@ Library Management System
 
 A full-stack web application for managing library books, issuing and returning books using QR codes, tracking book availability, and maintaining transaction history.
 
+NOTE:
+    MUST LOGIN IN USING THE BELOW CREDENTIALS 
+       Demo Login
+    Email: admin@library.com
+    Password: admin123
 deployed application:
   Frontend: https://library-management-system-blush-two.vercel.app/login
   Backend : https://library-management-system-816p.onrender.com
